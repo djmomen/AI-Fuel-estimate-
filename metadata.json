@@ -1,0 +1,5 @@
+{
+  "name": "AI Fuel Consumption POS",
+  "description": "An AI-powered Point of Sale system to estimate and track fuel consumption for heavy equipment. Users can select equipment, input active hours, calculate fuel usage with AI, record results in rounds, and generate reports.",
+  "requestFramePermissions": []
+}
